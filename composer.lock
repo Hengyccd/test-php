@@ -140,7 +140,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mnsami/composer-custom-directory-installer.git",
-                "reference": "8cc82e0c5801cc3bf53ba452afdcaa5c6ff645a5"
+                "reference": "85f66323978d0b1cb0e6acc7f69b3e7b912f82d9"
             },
             "dist": {
                 "type": "zip",
